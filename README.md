@@ -4,5 +4,5 @@
 
 <img src="Screenshots/title.png" width=300 align=left>
 <img src="Screenshots/one.png" width=300 align=center>
-<img src="Screenshots/two.png" width=300>
+<img src="Screenshots/two.png" width=300 align=right>
 
