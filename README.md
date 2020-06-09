@@ -2,7 +2,7 @@
 
 [VirusDestroyer](http://austrotek.com/games/VirusDestroyer/VirusDestroyer.html) - A classic Galaga style game with a twist of COVID. Player is a bleach container shooting bleach at the Coronavirus that is releasing small droplets. (Best played on Google Chrome)
 
-<img src="Screenshots/title.png" width=100 align=left>
-<img src="Screenshots/one.png" width=100>
-<img src="Screenshots/two.png" width=100 align=right>
+<img src="Screenshots/title.png" width=250 align=left>
+<img src="Screenshots/one.png" width=250>
+<img src="Screenshots/two.png" width=250 align=right>
 
